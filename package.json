@@ -1,5 +1,5 @@
 {
-  "name": "StudyApp",
+  "name": "study-app",
   "private": true,
   "scripts": {
     "build": "turbo build",
