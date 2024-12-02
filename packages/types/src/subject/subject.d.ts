@@ -2,7 +2,7 @@ import { TObjectId } from "..";
 import { IExam, IFlashcard, INote } from ".";
 
 export declare interface ISubject {
-  userId: string;
+  userId: TObjectId;
   subjectName: string;
   documents: string[];
   flashcards: IFlashcard[];
