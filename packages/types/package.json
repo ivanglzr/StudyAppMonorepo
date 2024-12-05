@@ -2,10 +2,9 @@
   "name": "@study-app/types",
   "version": "1.0.0",
   "type": "module",
-  "main": "",
   "author": "ivanglzr",
   "types": "./src/index.d.ts",
-  "dependencies": {
+  "devDependencies": {
     "mongoose": "8.8.3"
   },
   "exports": {
